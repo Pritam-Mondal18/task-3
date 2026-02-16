@@ -96,7 +96,7 @@ Linear-Regression-House-Price/
 └── README.md
 
 ```
-## ❓ Concepts Covered (Interview Preparation)
+## ❓ Concepts Covered
 - Assumptions of Linear Regression  
 - Interpretation of coefficients  
 - R² score significance  
